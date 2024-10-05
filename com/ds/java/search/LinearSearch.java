@@ -3,6 +3,7 @@ package com.ds.java.search;
 import java.util.Arrays;
 import java.util.List;
 
+// UN-SORTED ELEMENTS
 public class LinearSearch {
     public static void main(String[] args) {
         Integer[] a = {1,18, 29, 16, 27, 20, 11, 23, 244, 12};
